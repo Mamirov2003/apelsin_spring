@@ -29,7 +29,7 @@ public class WebMvcConfig implements WebMvcConfigurer {
         dataSource.setDriverClassName("org.postgresql.Driver");
         dataSource.setUrl("jdbc:postgresql://localhost:5432/postgres");
         dataSource.setUsername("postgres");
-        dataSource.setPassword("123");
+        dataSource.setPassword("doniyor0316");
         return dataSource;
     }
 
